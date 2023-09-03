@@ -11,12 +11,11 @@ My personal setup for vsc, this setup will make your visual studio code look bea
 ### prerequisites
 
 Install the following extensions for vsc
-
-1. Default extensions that we needed
-2. Material icon Theme for icons
-3. Prettier
-4. Indenticator
-5. Yoru for general theme
+Default extensions that we needed:
+1. Material icon Theme for icons
+2. Prettier
+3. Indenticator
+4. One Dark Pro for general theme
 
 for extra install Fira Code Font
 
