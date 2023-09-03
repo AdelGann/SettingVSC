@@ -4,9 +4,9 @@ My personal setup for vsc, this setup will make your visual studio code look bea
 
 ### Preview
 
-![Author: AdelG](public\image2.png)
+![Author: AdelGann](public/image2.png)
 
-![Author: AdelG](public\image3.png)
+![Author: AdelGann](public/image3.png)
 
 ### prerequisites
 
@@ -23,5 +23,5 @@ for extra install Fira Code Font
 ### installation
 
 1. Copy the code from Settings.json on github
-2. Go to Vsc configuration: ![Author: AdelG](public\image1.png)
+2. Go to Vsc configuration: ![Author: AdelGann](public/image1.png)
 3. Paste into Settings.json on VSC
